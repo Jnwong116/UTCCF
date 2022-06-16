@@ -4,5 +4,5 @@ This is the website for utccf.com
 
 ## Contributors
 
-Jordan Wong
-Kelvin Lo
+Jordan Wong<br />
+Kelvin Lo<br />
