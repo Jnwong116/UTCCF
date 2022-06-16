@@ -1,5 +1,8 @@
 # UTCCF
+
 This is the website for utccf.com
 
 ## Contributors
-Jordan Wong
+
+Jordan Wong<br />
+Kelvin Lo<br />
