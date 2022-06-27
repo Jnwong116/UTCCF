@@ -9,3 +9,4 @@ Kelvin Lo<br />
 Neo Lou<br />
 Ginny Guo<br />
 John Zhang<br />
+Alaina Hu<br />
